@@ -1,0 +1,8 @@
+com\bonify\Q4\service\DynamicURLServiceImpl.class
+com\bonify\Q4\service\DynamicURLService.class
+com\bonify\Q4\Application.class
+com\bonify\Q4\controller\DynamicURLController.class
+com\bonify\Q4\dao\DynamicURLDao.class
+com\bonify\Q4\dao\DynamicURLDaoImpl.class
+com\bonify\Q4\util\DynamicURLUtils.class
+com\bonify\Q4\model\URLMapper.class

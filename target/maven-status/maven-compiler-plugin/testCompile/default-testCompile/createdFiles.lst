@@ -1,0 +1,4 @@
+com\bonify\Q4\dao\DynamicURLDaoImplTest.class
+com\bonify\Q4\service\DynamicURLServiceImplTest.class
+com\bonify\Q4\util\DynamicURLUtilsTest.class
+com\bonify\Q4\controller\DynamicURLControllerTest.class
